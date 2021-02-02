@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../hDocuments/stdlink.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+D:/CLion/DataStructure/TEST/Link/linkTest2.c
+stdlink.h
+D:/CLion/DataStructure/TEST/Link/stdlink.h
+

@@ -1,0 +1,17 @@
+
+add_executable(trueTest trueTest.c)
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+

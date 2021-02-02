@@ -40,12 +40,12 @@ int main() {
     printf("请输入你要插入的数据：key：");
     scanf("%d",&key);
 
-    if(!insert(head, x, key)) printf("插入失败\n");
+    if(insert(head, x, key) == ERROR) printf("插入失败\n");
     else printf("插入成功\n");
 
     printf("\n");
 
-//    linkTraverse(head);
+    linkTraverse(head);
 
 
 

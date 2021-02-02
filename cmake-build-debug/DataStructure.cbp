@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\TEST\;CMake Files\TEST\Link\;CMake Files\TEST\Stack\;CMake Files\TEST\Stack\Array\;CMake Files\TEST\True\;CMake Files\TEST\True\Dome1\;CMake Files\hDocuments\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zuidaziliehewenti">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/zuidaziliehewenti.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 zuidaziliehewenti"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zuidaziliehewenti/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/zuidaziliehewenti.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 zuidaziliehewenti/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linkTest2">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Link/linkTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Link"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion/DataStructure/hDocuments"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 linkTest2"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linkTest2/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Link/linkTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Link"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion/DataStructure/hDocuments"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 linkTest2/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linkTest">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Link/linkTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Link"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion/DataStructure/hDocuments"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 linkTest"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linkTest/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Link/linkTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Link"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion/DataStructure/hDocuments"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 linkTest/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Link/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST_2.2_MyStact_Array">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/TEST_2.2_MyStact_Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 TEST_2.2_MyStact_Array"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST_2.2_MyStact_Array/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/TEST_2.2_MyStact_Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 TEST_2.2_MyStact_Array/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST_2.2_Stack_Array">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/TEST_2.2_Stack_Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 TEST_2.2_Stack_Array"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST_2.2_Stack_Array/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/TEST_2.2_Stack_Array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 TEST_2.2_Stack_Array/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/Stack/Array/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trueTest">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/trueTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 trueTest"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trueTest/fast">
+				<Option output="D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/trueTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/PATH/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 trueTest/fast"/>
+					<CompileFile command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PATH/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion/DataStructure/cmake-build-debug/TEST/True/Dome1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLion/DataStructure/1.3Maximum_subcolumn_sum_problem.c">
+			<Option target="zuidaziliehewenti"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Link/linkTest.c">
+			<Option target="linkTest"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Link/linkTest2.c">
+			<Option target="linkTest2"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Stack/Array/TEST_2.2_MyStact_Array.c">
+			<Option target="TEST_2.2_MyStact_Array"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Stack/Array/TEST_2.2_Stack_Array.c">
+			<Option target="TEST_2.2_Stack_Array"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/True/Dome1/trueTest.c">
+			<Option target="trueTest"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Link/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\Link\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Stack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\Stack\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/Stack/Array/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\Stack\Array\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/True/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\True\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/TEST/True/Dome1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\TEST\True\Dome1\"/>
+		</Unit>
+		<Unit filename="D:/CLion/DataStructure/hDocuments/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\hDocuments\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TEST_2.2_Stack_Array.dir/objects.a
+D:\PATH\mingw64\bin\ar.exe cr CMakeFiles\TEST_2.2_Stack_Array.dir/objects.a @CMakeFiles\TEST_2.2_Stack_Array.dir\objects1.rsp
+D:\PATH\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\TEST_2.2_Stack_Array.dir/objects.a -Wl,--no-whole-archive  -o TEST_2.2_Stack_Array.exe -Wl,--out-implib,libTEST_2.2_Stack_Array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TEST_2.2_Stack_Array.dir\linklibs.rsp

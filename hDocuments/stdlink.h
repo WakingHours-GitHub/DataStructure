@@ -142,24 +142,22 @@ int length(Link *head) {
 int insert(Link *head, unsigned int seq, ElementType key){
     // 表示在头结点之后，第一个节点之前插入节点
     if(!head) return ERROR;
+    Link *q = head;
     Link *p = NULL;
     if(seq == 0){
         if(!(p = (Link *)malloc(LEN(Link)))) return ERROR;
-
         p->date = key;
-        p->next = head;
-        head = (Link *)&p;
+        p->next = q;
 
-//        printf("----\n");linkTraverse(head);
+        head = p;
 
-       /* Link *temp = head;
-        p->next = temp;
-        temp = p;
-        p->date = key;
-        head = p;*/
+//        head = p;
 
+        printf("-----\n");
+        linkTraverse(head);
         return  SUCCEED;
     }
+//    Link *p = NULL;
 
     if(!(p = (Link *)malloc(LEN(Link)))) return ERROR;
     Link *temp = findSeq(head, seq - 1);

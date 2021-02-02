@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.17)
+project(DataStructure C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_subdirectory(TEST)
+add_subdirectory(hDocuments)
+
+add_executable(zuidaziliehewenti 1.3Maximum_subcolumn_sum_problem.c)
+#add_executable(main TEST/Link/TEST_MyLink.c)
+#add_executable(TEST_2.2stack TEST/Stack/Array/TEST_2.2_Stack_Array.c)
+#add_executable(TEST_2.2_MYstact hDocuments/stdstack.h  TEST/Stack/Array/TEST_2.2_MyStact_Array.c)
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+#add_executable()
+

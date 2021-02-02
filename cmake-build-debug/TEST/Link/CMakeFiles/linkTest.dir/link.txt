@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\linkTest.dir/objects.a
+D:\PATH\mingw64\bin\ar.exe cr CMakeFiles\linkTest.dir/objects.a @CMakeFiles\linkTest.dir\objects1.rsp
+D:\PATH\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\linkTest.dir/objects.a -Wl,--no-whole-archive  -o linkTest.exe -Wl,--out-implib,liblinkTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\linkTest.dir\linklibs.rsp
